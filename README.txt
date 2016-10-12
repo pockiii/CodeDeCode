@@ -1,0 +1,2 @@
+Code/Decode is an encryption program. The code method will shift a string of letters up x indices in the alphabet and the decode method will shift a string of 
+letters down x indices in the alphabet. Wrap around is included if the index is too big or small.
